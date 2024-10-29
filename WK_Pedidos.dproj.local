@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/11/13 18:59:17.000.006,=C:\Users\Patricio\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/10/28 16:56:11.000.116,=C:\Users\Patricio\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/10/28 16:57:26.000.285,D:\WK_Teste\uFrmPrincipal.dfm=C:\Users\Patricio\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024/10/28 16:57:26.000.285,D:\WK_Teste\uFrmPrincipal.pas=C:\Users\Patricio\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/10/28 17:00:41.000.890,=D:\WK_Teste\UFrmPedidos.pas</Transaction>
+    <Transaction>2024/10/28 17:15:54.000.235,D:\WK_Teste\WK_Pedidos.dproj=C:\Users\Patricio\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2024/10/28 17:16:59.000.247,=D:\WK_Teste\DataModule\uDMConexao.pas</Transaction>
+    <Transaction>2024/10/28 17:19:11.000.392,=D:\WK_Teste\ModelSupport_WK_Pedidos\default.txaPackage</Transaction>
+    <Transaction>2024/10/28 23:58:44.000.264,=D:\WK_Teste\Models\uCliente.pas</Transaction>
+    <Transaction>2024/10/28 23:59:02.000.375,=D:\WK_Teste\Models\uPedido.pas</Transaction>
+    <Transaction>2024/10/28 23:59:09.000.672,=D:\WK_Teste\Models\uPedidoProduto.pas</Transaction>
+    <Transaction>2024/10/28 23:59:20.000.295,=D:\WK_Teste\Models\uProduto.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile Android="emulator-5554"/>
+	</ActiveMobileDevice>
+</BorlandProject>
